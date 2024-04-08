@@ -20,5 +20,5 @@ Kayan Resimleri ile Birlikte Beş Dilde Ramazan Bayramı Kutlaması, Hayırlı B
 <p align="left">
 <a href="https://github.com/eac0d3rx"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 
-<a href="https://t.me/iameac0d3rxchannel"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+<a href="https://t.me/iameac0d3rx"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
